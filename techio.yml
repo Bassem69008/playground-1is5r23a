@@ -1,0 +1,10 @@
+title: PHP Project
+plan:
+- title: PHP on Tech.io
+  statement: markdowns/welcome.md
+projects:
+  first-project:
+    root: /php-template
+    runner:
+      name: php
+      version: latest
